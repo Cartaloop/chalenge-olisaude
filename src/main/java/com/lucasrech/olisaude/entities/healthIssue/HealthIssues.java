@@ -3,7 +3,7 @@ package com.lucasrech.olisaude.entities.healthIssue;
 import com.lucasrech.olisaude.entities.customer.Customer;
 import jakarta.persistence.*;
 
-@Entity
+
 public class HealthIssues {
     public Long id;
 

@@ -13,7 +13,7 @@ public class Customer {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "customer_id")
-    public Float id;
+    public Long id;
 
     @Column(name = "customer_name", length = 70, nullable = false)
     public String name;
