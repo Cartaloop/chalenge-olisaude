@@ -1,4 +1,4 @@
-package com.lucasrech.olisaude.entities.repositories;
+package com.lucasrech.olisaude.repositories;
 
 import com.lucasrech.olisaude.entities.customer.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
